@@ -1,0 +1,6 @@
+name: /mnt/c/Users/Leonardo/Desktop/XBox_Processing/env
+channels:
+  - defaults
+dependencies:
+  - pip
+prefix: /mnt/c/Users/Leonardo/Desktop/XBox_Processing/env

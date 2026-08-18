@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: xboxproc
+Version: 0.1.0
+Summary: Processing tools for Xbox TDMS trend and event data
+Requires-Python: >=3.9
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: nptdms
+Requires-Dist: tables
